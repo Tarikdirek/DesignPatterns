@@ -1,4 +1,4 @@
 <h1>Design Patterns</h1>
-<ul>Creational</ul>
-<ul>Behavioral</ul>
-<ul>Structural</ul>
+<ol>Creational</ol>
+<ol>Behavioral</ol>
+<ol>Structural</ol>
