@@ -5,5 +5,5 @@
 - Factory Pattern
 
 ## Behavioral
-
+- Dependecy Injection
 ## Structural
